@@ -1,0 +1,11 @@
+C:\Users\User\documents\visual studio 2015\Projects\GuessNumGame\NumGuess\bin\Debug\NumGuess.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\GuessNumGame\NumGuess\obj\Debug\NumGuess.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\GuessNumGame\NumGuess\obj\Debug\NumGuess.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2015\Projects\GuessNumGame\NumGuess\obj\Debug\NumGuess.猜數字遊戲.resources
+C:\Users\User\documents\visual studio 2015\Projects\GuessNumGame\NumGuess\obj\Debug\NumGuess.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2015\Projects\GuessNumGame\NumGuess\bin\Debug\NumGuess.exe
+C:\Users\User\documents\visual studio 2015\Projects\GuessNumGame\NumGuess\bin\Debug\NumGuess.pdb
+C:\Users\User\documents\visual studio 2015\Projects\GuessNumGame\NumGuess\bin\Debug\GameLibrary.dll
+C:\Users\User\documents\visual studio 2015\Projects\GuessNumGame\NumGuess\bin\Debug\GameLibrary.pdb
+C:\Users\User\documents\visual studio 2015\Projects\GuessNumGame\NumGuess\obj\Debug\NumGuess.exe
+C:\Users\User\documents\visual studio 2015\Projects\GuessNumGame\NumGuess\obj\Debug\NumGuess.pdb

@@ -1,0 +1,8 @@
+C:\Users\User\documents\visual studio 2015\Projects\GuessNumGame\programe03\bin\Debug\programe03.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\GuessNumGame\programe03\bin\Debug\programe03.exe
+C:\Users\User\documents\visual studio 2015\Projects\GuessNumGame\programe03\bin\Debug\programe03.pdb
+C:\Users\User\documents\visual studio 2015\Projects\GuessNumGame\programe03\bin\Debug\GameLibrary.dll
+C:\Users\User\documents\visual studio 2015\Projects\GuessNumGame\programe03\bin\Debug\GameLibrary.pdb
+C:\Users\User\documents\visual studio 2015\Projects\GuessNumGame\programe03\obj\Debug\programe03.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\GuessNumGame\programe03\obj\Debug\programe03.exe
+C:\Users\User\documents\visual studio 2015\Projects\GuessNumGame\programe03\obj\Debug\programe03.pdb

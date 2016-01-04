@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\GuessNumGame\GameLibrary\bin\Debug\GameLibrary.dll
+c:\users\user\documents\visual studio 2015\Projects\GuessNumGame\GameLibrary\bin\Debug\GameLibrary.pdb
+c:\users\user\documents\visual studio 2015\Projects\GuessNumGame\GameLibrary\obj\Debug\GameLibrary.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\GuessNumGame\GameLibrary\obj\Debug\GameLibrary.dll
+c:\users\user\documents\visual studio 2015\Projects\GuessNumGame\GameLibrary\obj\Debug\GameLibrary.pdb
