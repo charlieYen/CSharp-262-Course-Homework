@@ -1,0 +1,8 @@
+c:\users\i7704\documents\visual studio 2013\Projects\[cs262]2016-01-06\Programe01\bin\Debug\Programe01.exe.config
+c:\users\i7704\documents\visual studio 2013\Projects\[cs262]2016-01-06\Programe01\bin\Debug\Programe01.exe
+c:\users\i7704\documents\visual studio 2013\Projects\[cs262]2016-01-06\Programe01\bin\Debug\Programe01.pdb
+c:\users\i7704\documents\visual studio 2013\Projects\[cs262]2016-01-06\Programe01\bin\Debug\StudentLibrary.dll
+c:\users\i7704\documents\visual studio 2013\Projects\[cs262]2016-01-06\Programe01\bin\Debug\StudentLibrary.pdb
+c:\users\i7704\documents\visual studio 2013\Projects\[cs262]2016-01-06\Programe01\obj\Debug\Programe01.csprojResolveAssemblyReference.cache
+c:\users\i7704\documents\visual studio 2013\Projects\[cs262]2016-01-06\Programe01\obj\Debug\Programe01.exe
+c:\users\i7704\documents\visual studio 2013\Projects\[cs262]2016-01-06\Programe01\obj\Debug\Programe01.pdb
